@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-HAR-Battery-Efficient-Personalized-Model
